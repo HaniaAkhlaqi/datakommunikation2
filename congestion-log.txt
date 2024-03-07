@@ -1,0 +1,2632 @@
+Script started on 2023-11-27 18:32:23+01:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="133" LINES="32"]
+]2;bash@arrhenius:/home/haak0445/network/lab1]1;bash@arrhenius[?2004hhaak0445@arrhenius:~/network/lab1$ ./ns3-run tast[Kk2-cwnd.py
+[?2004lTcpWestwood:TcpWestwood(0x56412b75d290)
+TcpWestwood:TcpWestwood(0x56412b6500f0)
+TcpWestwood:TcpWestwood(0x56412b765670)
+Invoked the copy constructor
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.9625e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 5462bps
+Estimated BW after filtering: 273bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +3.21719e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 14998bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +4.31504e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 42457bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +5.27566e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 67170bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +6.1162e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 89412bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +6.85168e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 109429bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +7.49522e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 127445bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.05831e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 143659bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.55103e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 158252bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.98215e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 171385bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.35938e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 183205bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.68946e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 193843bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.97827e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 203417bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.0231e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 212034bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.04521e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 219789bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.06456e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 226769bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.08149e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 233051bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.0963e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 238704bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.10927e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 243792bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.12061e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 248371bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.13053e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 252492bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.13922e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 256201bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.14681e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 259539bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.15346e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 262544bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.15928e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 265248bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.16437e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 267682bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.16882e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 269872bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.17272e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 271843bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +1.17613e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 579200bps
+Estimated BW after filtering: 288097bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.17911e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 302726bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.18172e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 301412bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.18401e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 300229bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.18601e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 299165bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.18776e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 298207bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.18929e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 297345bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.19063e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 296569bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.1918e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 295871bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.19282e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 295242bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.19372e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 294676bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.19451e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 294167bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.19519e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 293709bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.19579e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 293297bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.19632e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292926bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.19678e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292592bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.19718e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292291bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.19753e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292020bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.19784e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 291777bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.19811e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 291558bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.19835e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 291361bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 0, +1.40105e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 0bps
+Estimated BW after filtering: 276703bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.32842e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 13790bps
+Estimated BW after filtering: 249721bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.26487e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 239917bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.20926e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 244884bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.1606e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 249354bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.11803e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 253377bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.08077e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 256998bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +1.04818e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 579200bps
+Estimated BW after filtering: 274737bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.01966e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290702bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.94699e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290590bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.72861e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290490bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.53754e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290400bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.37034e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290319bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.22405e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290246bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.09604e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290180bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.98404e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290121bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.88603e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290067bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.80028e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290019bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.72524e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 289976bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.65959e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 289937bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.60214e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 289902bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.55187e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 289870bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.50789e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 289842bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.4694e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 289816bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.43573e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 289793bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.40626e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 289772bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.38048e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 289753bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.35792e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 289736bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.33818e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 289721bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.32091e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 289707bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.30579e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 289695bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.29257e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 289684bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.281e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 289674bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.27087e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 289665bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.26201e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 289657bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +8.25426e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 579200bps
+Estimated BW after filtering: 304130bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.24748e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 317156bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.24154e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 314399bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.23635e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 311918bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.23181e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 309685bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.22783e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 307675bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.22435e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 305866bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.22131e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 304238bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.21864e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 302773bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.21631e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 301454bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.21427e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 300267bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.21249e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 299199bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.21093e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 298238bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20956e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 297373bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20837e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 296594bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20732e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 295893bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20641e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 11138bps
+Estimated BW after filtering: 281339bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20561e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 268241bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2049e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 270375bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20429e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 272296bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20376e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 274025bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20329e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 275581bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20287e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 276981bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20252e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 278241bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2022e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 279375bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20193e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 280396bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20168e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 281315bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20147e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 282142bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +8.20129e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 579200bps
+Estimated BW after filtering: 297366bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20113e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 311068bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20099e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 308920bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20086e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 306987bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20076e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 305247bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20066e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 303681bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20058e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 302271bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20051e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 301002bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20044e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 299860bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20039e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 298833bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20034e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 297908bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2003e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 297076bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20026e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 296327bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20023e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 295653bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2002e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 295046bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20017e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 294500bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20015e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 294009bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20013e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 293567bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20012e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 293169bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2001e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292811bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20009e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292488bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20008e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292198bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20007e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 291937bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20006e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 291702bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20005e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 291490bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20005e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 291300bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20004e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 291129bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20003e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290975bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +8.20003e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 579200bps
+Estimated BW after filtering: 305316bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20003e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 318223bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20002e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 315359bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20002e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 312782bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20002e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 310462bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20002e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 308374bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20001e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 306495bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20001e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 304804bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20001e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 303282bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20001e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 301912bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20001e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 11138bps
+Estimated BW after filtering: 286756bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20001e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 273116bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.20001e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 274763bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 276245bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 277579bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 278780bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 279861bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 280833bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 281708bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 282496bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 283205bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 283843bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 284417bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 284934bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 285399bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 285818bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 286195bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 286534bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 579200bps
+Estimated BW after filtering: 301319bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 314626bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 312122bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 309868bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 307840bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 306015bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 304372bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 302893bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 301562bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 300364bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 299286bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 298316bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 297443bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 296657bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 295950bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 295314bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 294741bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 294225bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 293761bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 293343bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292967bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292629bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292325bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292051bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 291804bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 291582bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 291382bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 579200bps
+Estimated BW after filtering: 305682bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 318552bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 315655bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 313048bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 310702bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 11138bps
+Estimated BW after filtering: 294667bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 280236bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 281171bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 282012bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 282769bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 283451bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 284064bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 284616bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 285113bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 285560bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 285963bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 286325bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 286651bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 286944bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 287208bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 287446bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 287660bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 287853bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 288026bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 288182bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 288322bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 288448bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 288562bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 579200bps
+Estimated BW after filtering: 303144bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 316268bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 313600bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 311199bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 309038bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 307093bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 305342bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 303766bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 302348bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 301072bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 299923bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 298889bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 297959bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 297122bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 296368bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 295690bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 295080bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 294531bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 294036bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 293591bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 293190bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292830bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292506bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292214bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 291951bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 291714bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 291501bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 11138bps
+Estimated BW after filtering: 277386bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 579200bps
+Estimated BW after filtering: 279163bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 294685bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 294175bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 293716bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 293303bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292931bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292596bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292295bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292024bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 291780bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 291561bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 291363bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 291185bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 291025bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290881bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290751bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290634bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290529bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290435bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290350bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290274bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290205bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290143bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290087bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 290037bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 289992bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 289951bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 289914bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 579200bps
+Estimated BW after filtering: 304361bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 317363bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 314585bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 312085bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 309835bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 307810bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 305988bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 304348bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 302872bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 301543bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 300347bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 299271bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 298302bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 297430bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 296646bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 295940bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 295305bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 294733bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 294218bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 293755bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 293338bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 11138bps
+Estimated BW after filtering: 279040bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 266172bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 268513bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 270620bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 272517bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 274224bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 275760bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 579200bps
+Estimated BW after filtering: 291623bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 305899bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 304268bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 302800bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 301479bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 300290bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 299220bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 298257bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 297390bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 296610bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 295908bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 295276bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 294707bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 294195bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 293734bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 293319bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292946bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292610bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.2e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292308bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.5e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 180918bps
+Estimated BW after filtering: 286602bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.8875e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 278442bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.36406e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 273508bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.91855e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 269068bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.05287e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 265072bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.12001e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 261475bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.19126e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 258238bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.26735e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 255325bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.34644e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 252703bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +1.42938e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 458227bps
+Estimated BW after filtering: 261798bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.51571e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 269984bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.60374e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 265896bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.69453e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 262217bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.78646e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 258906bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.88065e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 255926bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.97557e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 253244bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.07238e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 250830bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.16958e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 248658bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.26838e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 246703bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.36858e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 244943bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.46876e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 243359bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.57017e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 241934bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.67139e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 240651bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.77372e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 239496bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.52951e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 14983bps
+Estimated BW after filtering: 227750bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.31582e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 220204bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.12884e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 227142bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.96523e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 233386bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.82208e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 239006bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.69682e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 244064bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.58722e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 248616bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.49132e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 252713bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.4074e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 256400bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.33398e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 259719bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.26973e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 262706bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.21351e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 265394bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +1.16432e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 579200bps
+Estimated BW after filtering: 282293bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.12128e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 297502bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.08362e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 296710bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.05067e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 295998bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.02184e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 295357bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.96607e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 294780bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.74531e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 294261bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.55215e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 293793bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.38313e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 293372bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.23524e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292993bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.10583e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292652bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.9926e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292345bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.89353e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292069bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.10684e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 180909bps
+Estimated BW after filtering: 286387bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.41848e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 278249bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.82867e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 273335bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.03251e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 268912bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.08845e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 264931bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.15114e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 261348bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.2185e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 258124bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.29118e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 255222bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.36729e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 252610bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.44763e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 250260bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.53167e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 248145bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.61771e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 246241bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.70675e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 244527bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.79716e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 242985bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.89001e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 241597bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +1.98376e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 458227bps
+Estimated BW after filtering: 251803bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.07954e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 260988bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.17585e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 257800bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.27387e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 254931bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.37338e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 252348bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.47296e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 250024bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.57384e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 247932bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.67461e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 246049bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.77653e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 244355bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.87822e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 242830bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.62094e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 15191bps
+Estimated BW after filtering: 230762bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.39582e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 222924bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.19884e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 229590bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.02649e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 235590bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.87568e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 240990bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.74372e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 245850bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.62825e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 250224bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.52722e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 254160bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.43882e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 257703bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.36147e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 260891bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.29378e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 263760bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.23456e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 266343bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.18274e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 268667bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.1374e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 270759bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.09772e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 272642bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.06301e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 274336bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.03263e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 275861bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.00605e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 277233bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +9.82796e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 579200bps
+Estimated BW after filtering: 292948bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.62447e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 307092bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.44641e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 305341bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.29061e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 303765bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.15428e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 302347bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.035e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 301071bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.93062e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 299922bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.13929e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 180909bps
+Estimated BW after filtering: 293454bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.44688e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 284609bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.85352e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 279059bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.03468e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 274064bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.09035e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 269568bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.1528e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 265522bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.21995e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 261880bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.29246e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 258603bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.3684e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 255653bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.4486e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 252998bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.53253e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 250609bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.61846e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 248459bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.7074e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 246524bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.79773e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 244782bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.89051e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 243214bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.9842e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 241803bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.07992e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 240533bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.17618e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 239390bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.27416e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 238362bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.37364e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 237436bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.47318e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 236603bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +2.57404e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 458227bps
+Estimated BW after filtering: 247308bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.67478e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 256943bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.77668e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 254159bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.87835e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 251654bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.62106e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 15191bps
+Estimated BW after filtering: 238703bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.39592e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 230071bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.19893e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 236022bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.02657e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 241378bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.87575e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 246199bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.74378e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 250538bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.62831e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 254443bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.52727e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 257957bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.43886e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 261120bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.3615e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 263967bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.29381e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 266529bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.23459e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 268835bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.18276e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 270910bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.13742e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 272778bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.09774e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 274459bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.06302e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 275972bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.03265e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 277333bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.00606e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 278558bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.82807e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 279661bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.62456e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 280653bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.44649e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 281546bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.29068e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 282350bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.15434e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 283074bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.03505e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 283725bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +8.93067e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 579200bps
+Estimated BW after filtering: 298791bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.13933e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 180909bps
+Estimated BW after filtering: 306916bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.44692e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 296725bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.85355e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 289963bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.03469e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 283877bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.09035e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 278400bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.15281e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 273471bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.21996e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 269034bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.29246e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 265041bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.3684e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 261447bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.4486e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 258213bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.53253e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 255302bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.61846e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 252682bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.7074e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 250324bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.79773e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 248202bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.89051e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 246292bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.9842e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 244573bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.07992e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 243026bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.17618e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 241634bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.27416e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 240381bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.37364e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 239253bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.47319e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 238238bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.57404e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 237325bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.67478e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 236503bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.77668e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 235763bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.87835e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 235097bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.62106e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 15191bps
+Estimated BW after filtering: 223802bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.39592e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 216660bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +2.19893e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 579200bps
+Estimated BW after filtering: 238433bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.02657e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 258028bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.87575e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 261184bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.74378e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 264024bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.62831e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 266580bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.52727e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 268881bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.43886e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 270951bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.3615e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 272814bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.29381e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 274491bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.23459e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 276000bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.18276e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 277359bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.13742e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 278582bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.09774e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 279682bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.06302e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 280672bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.03265e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 281563bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.00606e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 282365bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.82807e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 283087bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.62456e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 283737bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.44649e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 284322bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.29068e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 284848bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.15434e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 285322bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.03505e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 285748bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.93067e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 286132bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.13933e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 180909bps
+Estimated BW after filtering: 281043bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.44692e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 273439bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.85355e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 269006bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.03469e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 265016bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.09035e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 261425bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +1.15281e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 458227bps
+Estimated BW after filtering: 269648bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.21996e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 277049bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.29246e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 272255bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.3684e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 267940bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.4486e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 264057bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.53253e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 260562bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.61846e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 257416bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.7074e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 254585bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.79773e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 252037bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.89051e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 249744bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.9842e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 247680bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.07992e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 245823bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.17618e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 244151bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.27416e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 242646bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.37364e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 241292bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.47319e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 240073bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.57404e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 238976bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.67478e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 237989bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.77668e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 237101bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.87835e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 236301bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.62106e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 15191bps
+Estimated BW after filtering: 224885bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.39592e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 217635bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.19893e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 224830bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.02657e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 231306bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.87575e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 237134bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.74378e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 242379bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.62831e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 247100bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +1.52727e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 579200bps
+Estimated BW after filtering: 265829bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.43886e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 282685bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.3615e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 283375bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.29381e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 283996bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.23459e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 284555bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.18276e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 285058bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.13742e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 285511bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.09774e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 285918bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.06302e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 286285bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.03265e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 286615bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.00606e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 286912bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.82807e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 287179bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.62456e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 287420bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.44649e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 287637bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.29068e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 287832bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.15434e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 288007bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.03505e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 288165bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.93067e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 288307bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.13933e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 180909bps
+Estimated BW after filtering: 283001bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.44692e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 275201bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.85355e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 270591bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.03469e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 266442bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.09035e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 262708bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.15281e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 259348bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.21996e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 256324bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.29246e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 253602bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.3684e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 251152bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.4486e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 248947bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +1.53253e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 458227bps
+Estimated BW after filtering: 258418bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.61846e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 266942bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.7074e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 263158bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.79773e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 259753bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.89051e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 256688bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.9842e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 253930bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.07992e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 251448bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.17618e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 249214bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.27416e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 247203bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.37364e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 245393bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.47319e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 243764bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.57404e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 242298bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.67478e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 240979bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.77668e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 239792bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.87835e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 238723bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.62106e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 15191bps
+Estimated BW after filtering: 227065bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.39592e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 219597bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.19893e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 226596bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.02657e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 232895bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.87575e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 238564bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.74378e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 243666bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.62831e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 248258bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.52727e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 252391bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.43886e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 256110bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.3615e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 259458bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.29381e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 262471bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.23459e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 265182bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.18276e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 267622bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +1.13742e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 579200bps
+Estimated BW after filtering: 284298bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.09774e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 299307bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.06302e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 298335bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.03265e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 297460bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.00606e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 296673bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.82807e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 295964bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.62456e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 295326bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.44649e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 294752bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.29068e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 294235bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.15434e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 293770bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.03505e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 293352bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +8.93067e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 289600bps
+Estimated BW after filtering: 292975bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.13933e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 180909bps
+Estimated BW after filtering: 287202bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.44692e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 278982bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +9.85355e+07ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 273994bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.03469e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 269505bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.09035e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 265465bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.15281e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 261829bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.21996e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 258557bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.29246e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 255612bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.3684e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 252961bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.4486e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 250575bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.53253e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 248428bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.61846e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 246496bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.7074e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 244757bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.79773e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 243192bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.89051e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 241783bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +1.9842e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 240515bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 2, +2.07992e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 458227bps
+Estimated BW after filtering: 250829bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.17618e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 260112bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.27416e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 257011bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.37364e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 254220bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.47319e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 251709bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.57404e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 249449bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.67478e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 247415bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.77668e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 245584bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 1, +2.87835e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 229113bps
+Estimated BW after filtering: 243936bps
+TcpWestwood:PktsAcked(0x56412b75d290, 0x56412b7756c0, 0, +2.87835e+08ns)
+TcpWestwood:EstimateBW(0x56412b75d290)
+Estimated BW: 0bps
+Estimated BW after filtering: 230997bps
+FlowID: 1 (TCP 10.1.1.1/49153 --> 10.1.3.1/8080)
+  Tx Bytes: 1041208
+  Rx Bytes: 1041208
+  Lost Pkt: 0
+  Flow active: 1.000000s - 40.326315s
+  Throughput: 0.201997 Mbps
+FlowID: 2 (TCP 10.1.3.1/8080 --> 10.1.1.1/49153)
+  Tx Bytes: 33908
+  Rx Bytes: 33908
+  Lost Pkt: 0
+  Flow active: 1.005784s - 40.320723s
+  Throughput: 0.006580 Mbps
+FlowID: 3 (UDP 10.1.2.1/49153 --> 10.1.4.1/8080)
+  Tx Bytes: 495072
+  Rx Bytes: 495072
+  Lost Pkt: 0
+  Flow active: 21.040000s - 40.290139s
+  Throughput: 0.196212 Mbps
+]2;bash@arrhenius:/home/haak0445/network/lab1]1;bash@arrhenius[?2004hhaak0445@arrhenius:~/network/lab1$ exit
+[?2004lexit
+
+Script done on 2023-11-27 18:32:57+01:00 [COMMAND_EXIT_CODE="0"]
